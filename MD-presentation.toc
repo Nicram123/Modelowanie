@@ -1,0 +1,13 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Wstęp}{3}{0}{1}
+\beamer@sectionintoc {2}{Mapa topograficzna}{4}{0}{2}
+\beamer@sectionintoc {3}{Mapa azymutów (Dip Direction)}{5}{0}{3}
+\beamer@sectionintoc {4}{Grupowanie trójkątów - X\_N, Y\_N, Z\_N}{6}{0}{4}
+\beamer@sectionintoc {5}{Grupowanie trójkątów - X\_D, Y\_D, Z\_D}{7}{0}{5}
+\beamer@sectionintoc {6}{Tabele punktów skupień}{8}{0}{6}
+\beamer@sectionintoc {7}{Kod filtrowania i wizualizacji w R}{9}{0}{7}
+\beamer@sectionintoc {8}{Przefiltrowane punkty}{10}{0}{8}
+\beamer@sectionintoc {9}{Mapa geomorfonów}{11}{0}{9}
+\beamer@sectionintoc {10}{Mapa geomorfonów}{12}{0}{10}
+\beamer@sectionintoc {11}{Podsumowanie i wnioski}{13}{0}{11}
+\beamer@sectionintoc {12}{Bibliografia}{14}{0}{12}

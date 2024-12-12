@@ -230,40 +230,109 @@
 \section{Przedstawienie danych}
 \begin{frame}{Dane}
 	\begin{itemize}
-		\item Dane z morza Bałtyckiego na północ od Polski - UTM 34N.
+		\item Dane z dna Morza Bałtyckiego na północ od Polski - UTM 34N.
 	\end{itemize}
 	\begin{figure}
 		\includegraphics[width=0.7\textwidth]{screen1.png}
-		\caption{Dane przedstawione na tle podkładu topograficznego}
 	\end{figure}
+	\begin{itemize}
+		\item W tym regionie jest prowadzony niezwykle intensywnie transport drogą morską, aż 15\% światowego transportu. Badanie tego terenu jest korzystne dla transportu w wielu wymiarach.
+	\end{itemize}
 \end{frame}
 
-\section{Anomalie na krawędzi danych}
-\begin{frame}{Anomalie}
+\section{Interpolacja wysokościowa}
+\begin{frame}{Interpolacja wysokościowa}
 	\begin{figure}
-		\includegraphics[width=0.3\textwidth]{przed_obrobka.png}
-		\includegraphics[width=0.3\textwidth]{anomalia.png}
+		\centering
+		\begin{minipage}{0.7\textwidth}
+			\centering
+			\includegraphics[width=\textwidth]{interpolacja_wysokosc_qgis.png}
+		\end{minipage}
+		\begin{minipage}{0.2\textwidth}
+			\centering
+			\includegraphics[width=\textwidth]{skala.png}
+		\end{minipage}
 	\end{figure}
+
 \end{frame}
 
 \section{Anomalie na krawędzi danych2}
-\begin{frame}{Interpolacja wysokościowa}
+\begin{frame}{Anomalie na krawędzi}
 	\begin{figure}
-		\includegraphics[width=0.45\textwidth]{przed_obrobka.png}
-		\includegraphics[width=0.45\textwidth]{anomalia.png}
+		\begin{itemize}
+			\item Na brzegu badanego obszaru możemy zauważyć wartości odstające - chcemy się ich pozbyć
+		\end{itemize}
+		\includegraphics[width=0.60\textwidth]{przed_obrobka.png}
+		\includegraphics[width=0.60\textwidth]{anomalia.png}
 	\end{figure}
 \end{frame}
 
-\section{Mapa topograficzna}
+\section{Bez anomalii}
 \begin{frame}{Dane bez anomalii}
 	\begin{figure}
 		\includegraphics[width=0.7\textwidth]{bez_anomalii.png}
-		\caption{Dane po obróbce}
 	\end{figure}
+	
+		\centering
+		\ Bardzo małe kąty - między 0 a 5 stopni
+
 \end{frame}
 
 
 
+\section{Mapa azymutów}
+\begin{frame}{Mapa azymutów}
+
+		\centering
+		\ QGIS i Paraview
+
+	\begin{figure}
+		\includegraphics[width=0.45\textwidth]{mapa_azymutów.png}
+		\includegraphics[width=0.45\textwidth]{dip_dir_paraview2.png}		
+	\end{figure}
+
+\end{frame}
+
+\section{Mapa azymutów2}
+\begin{frame}
+
+	\begin{figure}
+		\includegraphics[width=0.6\textwidth]{mapa_azymutów2.png}		
+	\end{figure}
+	
+\end{frame}
+
+
+\section{Kabel}
+\begin{frame}
+	
+	\begin{figure}
+		\includegraphics[width=0.6\textwidth]{kanał_bałtyk.png}		
+	\end{figure}
+	
+\end{frame}
+
+\section{Grupowanie trójkątów - X\_N, Y\_N, Z\_N}
+\begin{frame}{Grupowanie trójkątów - X\_N, Y\_N, Z\_N}
+	\centering
+	\ Wizualizacja pogrupowania trójkątów za pomocą algorytmu k-średnich dla k = 3 w programie Stereonet
+
+	\begin{figure}
+		\includegraphics[scale=0.5]{grupowanie_N.png}
+		\includegraphics[scale=0.3]{X_N2.png}
+	\end{figure}
+\end{frame}
+
+\section{Grupowanie trójkątów - X\_D, Y\_D, Z\_D}
+\begin{frame}{Grupowanie trójkątów - X\_D, Y\_D, Z\_D}
+	\centering
+	\ Wizualizacja pogrupowania trójkątów za pomocą algorytmu k-średnich dla k = 3 w programie Stereonet
+	
+	\begin{figure}
+		\includegraphics[scale=0.5]{X_D_stereonet.png}
+		\includegraphics[scale=0.3]{x_d2.png}
+	\end{figure}
+\end{frame}
 % Bibliografia
 \section{Bibliografia}
 \begin{frame}{Bibliografia}
@@ -273,6 +342,8 @@
         \item ParaView - \url{https://www.paraview.org/}
         \item Dokumentacja Stereonet - dostępna w programie.
         \item Submarine Cable Map https://www.submarinecablemap.com/
+        \item https://pl.wikipedia.org/wiki/
+        \item https://www.infona.pl/resource/bwmeta1.element.desklight-d5218c20-778b-4cdb-8ed4-5708cc7680e9
     \end{itemize}
 \end{frame}
 

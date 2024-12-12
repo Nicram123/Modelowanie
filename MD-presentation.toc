@@ -12,7 +12,12 @@
 \beamer@sectionintoc {11}{Podsumowanie i wnioski}{13}{0}{11}
 \beamer@sectionintoc {12}{Slajd przejściowy}{14}{0}{12}
 \beamer@sectionintoc {13}{Przedstawienie danych}{15}{0}{13}
-\beamer@sectionintoc {14}{Anomalie na krawędzi danych}{16}{0}{14}
+\beamer@sectionintoc {14}{Interpolacja wysokościowa}{16}{0}{14}
 \beamer@sectionintoc {15}{Anomalie na krawędzi danych2}{17}{0}{15}
-\beamer@sectionintoc {16}{Mapa topograficzna}{18}{0}{16}
-\beamer@sectionintoc {17}{Bibliografia}{19}{0}{17}
+\beamer@sectionintoc {16}{Bez anomalii}{18}{0}{16}
+\beamer@sectionintoc {17}{Mapa azymutów}{19}{0}{17}
+\beamer@sectionintoc {18}{Mapa azymutów2}{20}{0}{18}
+\beamer@sectionintoc {19}{Kabel}{21}{0}{19}
+\beamer@sectionintoc {20}{Grupowanie trójkątów - X\_N, Y\_N, Z\_N}{22}{0}{20}
+\beamer@sectionintoc {21}{Grupowanie trójkątów - X\_D, Y\_D, Z\_D}{23}{0}{21}
+\beamer@sectionintoc {22}{Bibliografia}{24}{0}{22}

@@ -20,4 +20,5 @@
 \beamer@sectionintoc {19}{Kabel}{21}{0}{19}
 \beamer@sectionintoc {20}{Grupowanie trójkątów - X\_N, Y\_N, Z\_N}{22}{0}{20}
 \beamer@sectionintoc {21}{Grupowanie trójkątów - X\_D, Y\_D, Z\_D}{23}{0}{21}
-\beamer@sectionintoc {22}{Bibliografia}{24}{0}{22}
+\beamer@sectionintoc {22}{Mapa geomorfonów}{24}{0}{22}
+\beamer@sectionintoc {23}{Bibliografia}{25}{0}{23}

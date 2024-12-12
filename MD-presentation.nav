@@ -59,11 +59,36 @@
 \headcommand {\beamer@framepages {13}{13}}
 \headcommand {\beamer@sectionpages {13}{13}}
 \headcommand {\beamer@subsectionpages {13}{13}}
-\headcommand {\sectionentry {12}{Bibliografia}{14}{Bibliografia}{0}}
+\headcommand {\sectionentry {12}{Slajd przejściowy}{14}{Slajd przejściowy}{0}}
 \headcommand {\slideentry {12}{0}{1}{14/14}{}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@partpages {1}{14}}
-\headcommand {\beamer@subsectionpages {14}{14}}
 \headcommand {\beamer@sectionpages {14}{14}}
-\headcommand {\beamer@documentpages {14}}
-\headcommand {\gdef \inserttotalframenumber {14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\sectionentry {13}{Przedstawienie danych}{15}{Przedstawienie danych}{0}}
+\headcommand {\slideentry {13}{0}{1}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@sectionpages {15}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\sectionentry {14}{Anomalie na krawędzi danych}{16}{Anomalie na krawędzi danych}{0}}
+\headcommand {\slideentry {14}{0}{1}{16/16}{}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@sectionpages {16}{16}}
+\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\sectionentry {15}{Anomalie na krawędzi danych2}{17}{Anomalie na krawędzi danych2}{0}}
+\headcommand {\slideentry {15}{0}{1}{17/17}{}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@sectionpages {17}{17}}
+\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\sectionentry {16}{Mapa topograficzna}{18}{Mapa topograficzna}{0}}
+\headcommand {\slideentry {16}{0}{1}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@sectionpages {18}{18}}
+\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\sectionentry {17}{Bibliografia}{19}{Bibliografia}{0}}
+\headcommand {\slideentry {17}{0}{1}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@partpages {1}{19}}
+\headcommand {\beamer@subsectionpages {19}{19}}
+\headcommand {\beamer@sectionpages {19}{19}}
+\headcommand {\beamer@documentpages {19}}
+\headcommand {\gdef \inserttotalframenumber {19}}

@@ -10,4 +10,9 @@
 \beamer@sectionintoc {9}{Mapa geomorfonów}{11}{0}{9}
 \beamer@sectionintoc {10}{Mapa geomorfonów}{12}{0}{10}
 \beamer@sectionintoc {11}{Podsumowanie i wnioski}{13}{0}{11}
-\beamer@sectionintoc {12}{Bibliografia}{14}{0}{12}
+\beamer@sectionintoc {12}{Slajd przejściowy}{14}{0}{12}
+\beamer@sectionintoc {13}{Przedstawienie danych}{15}{0}{13}
+\beamer@sectionintoc {14}{Anomalie na krawędzi danych}{16}{0}{14}
+\beamer@sectionintoc {15}{Anomalie na krawędzi danych2}{17}{0}{15}
+\beamer@sectionintoc {16}{Mapa topograficzna}{18}{0}{16}
+\beamer@sectionintoc {17}{Bibliografia}{19}{0}{17}

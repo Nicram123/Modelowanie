@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.6)  12 DEC 2024 21:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.6)  12 DEC 2024 21:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1071,18 +1071,18 @@ Package pdftex.def Info: X_D.png  used on input line 120.
 <X_N_measure.png, id=335, 268.6035pt x 64.44075pt>
 File: X_N_measure.png Graphic file (type png)
 <use X_N_measure.png>
-Package pdftex.def Info: X_N_measure.png  used on input line 139.
+Package pdftex.def Info: X_N_measure.png  used on input line 138.
 (pdftex.def)             Requested size: 138.2795pt x 33.17505pt.
 <X_D_measure.png, id=336, 266.1945pt x 73.4745pt>
 File: X_D_measure.png Graphic file (type png)
 <use X_D_measure.png>
-Package pdftex.def Info: X_D_measure.png  used on input line 139.
+Package pdftex.def Info: X_D_measure.png  used on input line 138.
 (pdftex.def)             Requested size: 138.2795pt x 38.16771pt.
  [8
 
  <./X_N_measure.png> <./X_D_measure.png>]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-59.
+58.
 
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
@@ -1093,15 +1093,15 @@ File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 <before.png, id=389, 317.38576pt x 490.83376pt>
 File: before.png Graphic file (type png)
 <use before.png>
-Package pdftex.def Info: before.png  used on input line 175.
+Package pdftex.def Info: before.png  used on input line 174.
 (pdftex.def)             Requested size: 138.2795pt x 213.84798pt.
 <after.png, id=390, 317.38576pt x 492.03825pt>
 File: after.png Graphic file (type png)
 <use after.png>
-Package pdftex.def Info: after.png  used on input line 175.
+Package pdftex.def Info: after.png  used on input line 174.
 (pdftex.def)             Requested size: 138.2795pt x 214.37276pt.
 
-Overfull \vbox (57.9731pt too high) detected at line 175
+Overfull \vbox (57.9731pt too high) detected at line 174
  []
 
 [10
@@ -1112,7 +1112,7 @@ Overfull \vbox (57.9731pt too high) detected at line 175
 <geo.png, id=442, 376.40625pt x 445.665pt>
 File: geo.png Graphic file (type png)
 <use geo.png>
-Package pdftex.def Info: geo.png  used on input line 201.
+Package pdftex.def Info: geo.png  used on input line 200.
 (pdftex.def)             Requested size: 153.64493pt x 181.92139pt.
  [12
 
@@ -1124,10 +1124,10 @@ Package pdftex.def Info: geo.png  used on input line 201.
 <screen1.png, id=518, 435.42674pt x 299.31825pt>
 File: screen1.png Graphic file (type png)
 <use screen1.png>
-Package pdftex.def Info: screen1.png  used on input line 241.
+Package pdftex.def Info: screen1.png  used on input line 240.
 (pdftex.def)             Requested size: 215.10196pt x 147.86383pt.
 
-Overfull \vbox (4.15654pt too high) detected at line 241
+Overfull \vbox (4.15654pt too high) detected at line 240
  []
 
 [15
@@ -1136,13 +1136,13 @@ Overfull \vbox (4.15654pt too high) detected at line 241
 <interpolacja_wysokosc_qgis.png, id=544, 338.4645pt x 352.31625pt>
 File: interpolacja_wysokosc_qgis.png Graphic file (type png)
 <use interpolacja_wysokosc_qgis.png>
-Package pdftex.def Info: interpolacja_wysokosc_qgis.png  used on input line 257
+Package pdftex.def Info: interpolacja_wysokosc_qgis.png  used on input line 256
 .
 (pdftex.def)             Requested size: 215.10196pt x 223.91187pt.
 <skala.png, id=545, 172.2435pt x 88.53075pt>
 File: skala.png Graphic file (type png)
 <use skala.png>
-Package pdftex.def Info: skala.png  used on input line 257.
+Package pdftex.def Info: skala.png  used on input line 256.
 (pdftex.def)             Requested size: 61.45703pt x 31.58734pt.
  [16
 
@@ -1150,15 +1150,15 @@ Package pdftex.def Info: skala.png  used on input line 257.
 <przed_obrobka.png, id=572, 473.97075pt x 311.9655pt>
 File: przed_obrobka.png Graphic file (type png)
 <use przed_obrobka.png>
-Package pdftex.def Info: przed_obrobka.png  used on input line 268.
+Package pdftex.def Info: przed_obrobka.png  used on input line 267.
 (pdftex.def)             Requested size: 184.3758pt x 121.35188pt.
 <anomalia.png, id=573, 473.97075pt x 291.489pt>
 File: anomalia.png Graphic file (type png)
 <use anomalia.png>
-Package pdftex.def Info: anomalia.png  used on input line 268.
+Package pdftex.def Info: anomalia.png  used on input line 267.
 (pdftex.def)             Requested size: 184.3758pt x 113.38669pt.
 
-Overfull \vbox (35.63126pt too high) detected at line 268
+Overfull \vbox (35.63126pt too high) detected at line 267
  []
 
 [17
@@ -1167,7 +1167,7 @@ Overfull \vbox (35.63126pt too high) detected at line 268
 <bez_anomalii.png, id=599, 473.97075pt x 294.50024pt>
 File: bez_anomalii.png Graphic file (type png)
 <use bez_anomalii.png>
-Package pdftex.def Info: bez_anomalii.png  used on input line 279.
+Package pdftex.def Info: bez_anomalii.png  used on input line 278.
 (pdftex.def)             Requested size: 215.10196pt x 133.6518pt.
  [18
 
@@ -1175,12 +1175,12 @@ Package pdftex.def Info: bez_anomalii.png  used on input line 279.
 <mapa_azymutów.png, id=625, 239.6955pt x 319.79475pt>
 File: mapa_azymutów.png Graphic file (type png)
 <use mapa_azymutów.png>
-Package pdftex.def Info: mapa_azymutów.png  used on input line 294.
+Package pdftex.def Info: mapa_azymutów.png  used on input line 293.
 (pdftex.def)             Requested size: 138.2795pt x 184.49051pt.
 <dip_dir_paraview2.png, id=626, 207.77625pt x 275.22826pt>
 File: dip_dir_paraview2.png Graphic file (type png)
 <use dip_dir_paraview2.png>
-Package pdftex.def Info: dip_dir_paraview2.png  used on input line 294.
+Package pdftex.def Info: dip_dir_paraview2.png  used on input line 293.
 (pdftex.def)             Requested size: 138.2795pt x 183.17567pt.
  [19
 
@@ -1188,7 +1188,7 @@ Package pdftex.def Info: dip_dir_paraview2.png  used on input line 294.
 <mapa_azymutów2.png, id=654, 239.6955pt x 319.79475pt>
 File: mapa_azymutów2.png Graphic file (type png)
 <use mapa_azymutów2.png>
-Package pdftex.def Info: mapa_azymutów2.png  used on input line 303.
+Package pdftex.def Info: mapa_azymutów2.png  used on input line 302.
 (pdftex.def)             Requested size: 184.3758pt x 245.99385pt.
  [20
 
@@ -1196,7 +1196,7 @@ Package pdftex.def Info: mapa_azymutów2.png  used on input line 303.
 <kanał_bałtyk.png, id=680, 521.5485pt x 407.72325pt>
 File: kanał_bałtyk.png Graphic file (type png)
 <use kanał_bałtyk.png>
-Package pdftex.def Info: kanał_bałtyk.png  used on input line 313.
+Package pdftex.def Info: kanał_bałtyk.png  used on input line 312.
 (pdftex.def)             Requested size: 184.3758pt x 144.13617pt.
  [21
 
@@ -1204,12 +1204,12 @@ Package pdftex.def Info: kanał_bałtyk.png  used on input line 313.
 <grupowanie_N.png, id=706, 257.16075pt x 232.4685pt>
 File: grupowanie_N.png Graphic file (type png)
 <use grupowanie_N.png>
-Package pdftex.def Info: grupowanie_N.png  used on input line 324.
+Package pdftex.def Info: grupowanie_N.png  used on input line 323.
 (pdftex.def)             Requested size: 128.58005pt x 116.23396pt.
 <X_N2.png, id=707, 443.85825pt x 311.9655pt>
 File: X_N2.png Graphic file (type png)
 <use X_N2.png>
-Package pdftex.def Info: X_N2.png  used on input line 324.
+Package pdftex.def Info: X_N2.png  used on input line 323.
 (pdftex.def)             Requested size: 133.1585pt x 93.59036pt.
  [22
 
@@ -1217,12 +1217,12 @@ Package pdftex.def Info: X_N2.png  used on input line 324.
 <X_D_stereonet.png, id=734, 265.59225pt x 237.88875pt>
 File: X_D_stereonet.png Graphic file (type png)
 <use X_D_stereonet.png>
-Package pdftex.def Info: X_D_stereonet.png  used on input line 335.
+Package pdftex.def Info: X_D_stereonet.png  used on input line 334.
 (pdftex.def)             Requested size: 132.79579pt x 118.94408pt.
 <x_d2.png, id=735, 443.85825pt x 311.9655pt>
 File: x_d2.png Graphic file (type png)
 <use x_d2.png>
-Package pdftex.def Info: x_d2.png  used on input line 335.
+Package pdftex.def Info: x_d2.png  used on input line 334.
 (pdftex.def)             Requested size: 133.1585pt x 93.59036pt.
 
 [23
@@ -1244,8 +1244,15 @@ Package pdftex.def Info: x_d2.png  used on input line 335.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `MD-presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 89B0849574CDCB8C190ED94E3DDFB9A1;3588.
+
+
+Package rerunfilecheck Warning: File `MD-presentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MD-presentation.out':
+(rerunfilecheck)             Before: DB57018B3A17976C368174960BED186A;3610
+(rerunfilecheck)             After:  E8758FB72898B292D0CE9F180748B53D;3496.
  ) 
 Here is how much of TeX's memory you used:
  23260 strings out of 474486
@@ -1266,9 +1273,9 @@ ts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk><C:/Users/NotAS/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/NotAS/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/NotAS/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on MD-presentation.pdf (24 pages, 3441817 bytes).
+Output written on MD-presentation.pdf (24 pages, 3440984 bytes).
 PDF statistics:
- 1114 PDF objects out of 1200 (max. 8388607)
+ 1112 PDF objects out of 1200 (max. 8388607)
  71 named destinations out of 1000 (max. 500000)
  344 words of extra memory for PDF output out of 10000 (max. 10000000)
 

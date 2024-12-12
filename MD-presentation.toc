@@ -1,7 +1,7 @@
 \babel@toc {english}{}\relax 
 \beamer@sectionintoc {1}{Wstęp}{3}{0}{1}
 \beamer@sectionintoc {2}{Mapa topograficzna}{4}{0}{2}
-\beamer@sectionintoc {3}{Mapa azymutów (Dip Direction)}{5}{0}{3}
+\beamer@sectionintoc {3}{Mapa azymutów}{5}{0}{3}
 \beamer@sectionintoc {4}{Grupowanie trójkątów - X\_N, Y\_N, Z\_N}{6}{0}{4}
 \beamer@sectionintoc {5}{Grupowanie trójkątów - X\_D, Y\_D, Z\_D}{7}{0}{5}
 \beamer@sectionintoc {6}{Tabele punktów skupień}{8}{0}{6}
